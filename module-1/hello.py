@@ -1,1 +1,1 @@
-print("Hello from Docker")
+print("Hello from Docker inside EC2")
